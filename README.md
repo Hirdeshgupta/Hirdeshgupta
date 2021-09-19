@@ -7,6 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://myportfoliohirdeshgupta.herokuapp.com/index.html#](https://myportfoliohirdeshgupta.herokuapp.com/index.html#)
 
-- 💬 Ask me about **Front end and Backend Web Development using JavaScript**
+- 💬 Ask me about **Full Stack Development  using JavaScript**
 
 - 📫 How to reach me **hirdeshgupta16@gmail.com**
